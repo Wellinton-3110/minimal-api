@@ -18,7 +18,7 @@ using minimal_api.Dominio.Servicos;
 using minimal_api.Infraestrutura.Db;
 
 
-
+//init
 
 public class Startup
 {
